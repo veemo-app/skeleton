@@ -8,7 +8,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/league/:package_name.svg?style=flat-square)](https://packagist.org/packages/:package_name)
 
 
-Veemo Auth - core package. Login, registration, password resets, user activation, active, inactive, banned, throttling.
+:package_description
 
 ## Install
 
